@@ -1,0 +1,16 @@
+run:
+Input your firstname  >>  
+1
+input your lastname >> 
+2
+Welcome 12  Create an account 
+Please enter your username
+ Take into accoount the username must contain:
+ Maximum of 5 characters only 
+ Must contain an underscore
+ Must contain only one uppercase letter
+Must contain only two lowercase letters
+ Must contain one digit  . 
+3
+THE username is invalid in correspondce to the detailed  wants  
+BUILD SUCCESSFUL (total time: 6 seconds)
